@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amal
 #### I am self-taught flutter developer
-![I am self-taught flutter developer](https://discountseries.com/wp-content/uploads/2020/02/curso-flutter.jpg)
+![I am self-taught flutter developer](http://thesocialpeople.net/newtspweb/wp-content/uploads/2017/11/Mobile-App.gif)
 
 
 Skills:
