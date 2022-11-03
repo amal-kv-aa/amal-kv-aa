@@ -1,4 +1,5 @@
-### Hi there 👋,################################33 my name is Amal
+### Hi there 👋
+#### my name is Amal
 #### I am self-taught flutter developer
 ![I am self-taught flutter developer](https://www.yellowfindigital.com/wp-content/uploads/2019/11/mobile-app-development.jpg)
 
