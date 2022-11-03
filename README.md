@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amal
 #### I am self-taught flutter developer
-![I am self-taught flutter developer](https://raditycmswebsite-live-5f5ab2ec57ec4907b-b52c0bb.divio-media.net/filer_public_thumbnails/filer_public/b0/59/b059b238-5059-4e45-a96d-209a08af5b74/flutter-design.jpg__1200x644_q90_subsampling-2.jpg)
+![I am self-taught flutter developer](https://dev.wordpress.fiftyfivetech.io/wp-content/uploads/2021/06/flutter2.png)
 
 
 Skills:
