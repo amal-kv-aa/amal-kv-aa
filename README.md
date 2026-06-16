@@ -2,7 +2,8 @@
 
 Flutter Developer from Kerala, India 🇮🇳
 
-Passionate about building clean, scalable, and user-friendly mobile applications for Android and iOS.
+Flutter Developer with 3 years of experience creating clean, scalable, and high-performance mobile applications for Android and iOS. 
+Passionate about delivering great user experiences and maintainable code.
 
 ## 🚀 Tech Stack
 - Flutter
